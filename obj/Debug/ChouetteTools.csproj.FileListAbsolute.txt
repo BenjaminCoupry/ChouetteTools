@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\bin\Debug\ChouetteTools.exe.config
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\bin\Debug\ChouetteTools.exe
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\bin\Debug\ChouetteTools.pdb
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\obj\Debug\ChouetteTools.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\obj\Debug\ChouetteTools.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\obj\Debug\ChouetteTools.exe
+C:\Users\benja\source\repos\ChouetteTools\ChouetteTools\obj\Debug\ChouetteTools.pdb
